@@ -1,5 +1,6 @@
 body {
   background-image: url(ss001.png);
+  background-size: cover;
 }
 
 h2 {
